@@ -1,7 +1,7 @@
 <template>
   <section>
           <strong>
-            { tempoDecorrido }
+            {{ tempoDecorrido }}
           </strong>
         </section>
 </template>
